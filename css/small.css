@@ -30,7 +30,7 @@ button {
     border-style: none;
     margin: 5px;
     padding: 10px;
-   
+   color: black;
 }
 button:hover {
     background-color: #F9D79F;
