@@ -9,6 +9,8 @@ p {
     padding-right: 100px;
    
   }
-  
+  footer {
+    bottom: -350px;
+  }
 
 } /* end media query*/

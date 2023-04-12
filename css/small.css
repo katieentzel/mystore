@@ -81,6 +81,8 @@ li::marker {
 footer {
     background-color: #AEC596;
     position: absolute;
+    bottom: -780px;
+    width: 100%;
     padding: 5px;
     margin-top: 10px;
     width: 100%;
